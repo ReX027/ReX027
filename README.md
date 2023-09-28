@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **HTML,CSS,Javascript,NodeJS,Express,React,Template Engines,Machine learning**
+- 💬 Ask me about **HTML ,CSS ,Javascript, NodeJS, Express, React, Template Engines, Machine learning**
 
 - 📫 How to reach me **tushar.vaid027@gmail.com**
 
