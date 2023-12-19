@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Vaid</h1>
 <h3 align="center">An Aspiring web developer and ML enthusiast</h3>
 
-- 🔭 I’m currently working on **Reactjs Project**
+- 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs & Nodejs**
 
 - 💬 Ask me about **HTML ,CSS ,Javascript, NodeJS, Express, React, Template Engines, Machine learning**
 
