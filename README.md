@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Vaid</h1>
 <h3 align="center">An Aspiring web developer and ML enthusiast</h3>
 
-- 🔭 I’m currently working on **Backend Project**
+- I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **Reactjs & Nodejs**
+- I’m currently learning **Reactjs & Nodejs**
 
-- 💬 Ask me about **HTML ,CSS ,Javascript, NodeJS, Express, React, Template Engines, Machine learning**
+- Ask me about **HTML ,CSS ,Javascript, NodeJS, Express, React, Template Engines, Machine learning**
 
-- 📫 How to reach me **tushar.vaid027@gmail.com**
+- How to reach me **tushar.vaid027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
