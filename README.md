@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Vaid</h1>
-<h3 align="center">An Aspiring web developer and ML enthusiast</h3>
+<h3 align="center">A frontend engineer at Rework AI and ML enthusiast</h3>
 
-- I’m currently working on **Backend Project**
+- I’m currently building **Rework AI Saas product - HR tech platform**
 
 - I’m currently learning **Reactjs & Nodejs**
 
